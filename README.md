@@ -1,10 +1,10 @@
 
 <title>пряный's Menu's</title>
-<meta content="Embed Title" property="og:title" />
-<meta content="Site Description" property="og:description" />
-<meta content="https://embed.com/this-is-the-site-url" property="og:url" />
+<meta content="пряный's Menu's" property="og:title" />
+<meta content="Here's where my menu's are" property="og:description" />
+<meta content="https://shinigoden.github.io/-/" property="og:url" />
 <meta content="https://embed.com/embedimage.png" property="og:image" />
-<meta content="#43B581" data-react-helmet="true" name="theme-color" />
+<meta content="#f16432" data-react-helmet="true" name="theme-color" />
 
 
 <body style="background-color:#581010;">
