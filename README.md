@@ -1,10 +1,8 @@
-
-<title>пряный's Menu's</title>
-<meta content="пряный's Menu's" property="og:title" />
-<meta content="Here's where my menu's are" property="og:description" />
-<meta content="https://shinigoden.github.io/-/" property="og:url" />
-<meta content="https://embed.com/embedimage.png" property="og:image" />
-<meta content="#f16432" data-react-helmet="true" name="theme-color" />
+<meta property="og:type" content="website">
+<meta property="og:title" content="пряный's Menu's" />
+<meta property="og:description" content="Here is where you can download my menu's" />
+<meta property="og:url" content="https://shinigoden.github.io/-/" />
+<meta property="og:image" content="https://static.wikia.nocookie.net/spongebob/images/9/9d/Lab_Squidward.png/revision/latest?cb=20210531232517" />
 
 
 <body style="background-color:#581010;">
