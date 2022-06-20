@@ -14,7 +14,7 @@
 
 <p style= " font-family: Arial; text-align: center; top: 25px; color: #f16432; right: 66px; width: 200px; height: 144px; margin: auto; position: absolute; font-size: 23px; text-align: center;">
  |пряный меню|<br>
- this menu is my first menu it has<br>
+ this menu is my first menu it has
  alot of free space(placeholders)<br>
 </p>
 
