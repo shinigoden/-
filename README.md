@@ -1,4 +1,12 @@
 
+<title>Website Name</title>
+<meta content="Embed Title" property="og:title" />
+<meta content="Site Description" property="og:description" />
+<meta content="https://embed.com/this-is-the-site-url" property="og:url" />
+<meta content="https://embed.com/embedimage.png" property="og:image" />
+<meta content="#43B581" data-react-helmet="true" name="theme-color" />
+
+
 <body style="background-color:#581010;">
 <p style="  top: 75px; left: -10px; color: #f16432; width: 592px; height: 0px; position: absolute; text-align: center; font-size: 2em; font-weight: bold; font-family: Arial;">
     Hello im пряный on discord this is
