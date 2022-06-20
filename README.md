@@ -38,6 +38,11 @@
  And more will be added<br>
 </p>
 
+
+    
+    
+<a download="пряный меню.dll">
 <button class="favorite styled" type="button" style="position: absolute; top: 195px; right: 78px; background-color: red; color: white;   font-size: 19px; text-align: center; padding-right: 5px;  width: 167px; height: 44px; border-radius: 1%;">
     Download
 </button>
+</a>
