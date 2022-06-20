@@ -1,6 +1,6 @@
 
 <body style="background-color:#581010;">
-<p style="  top: 65px; left: -10px; color: #f16432; width: 592px; height: 0px; position: absolute; text-align: center; font-size: 2em; font-weight: bold; font-family: Arial;">
+<p style="  top: 75px; left: -10px; color: #f16432; width: 592px; height: 0px; position: absolute; text-align: center; font-size: 2em; font-weight: bold; font-family: Arial;">
     Hello im пряный on discord this is
     where you can download my mod
     menus and other thing
@@ -14,8 +14,7 @@
 
 <p style= " font-family: Arial; text-align: center; top: 30px; color: #f16432; right: 66px; width: 192px; height: 144px; margin: auto; position: absolute; font-size: 23px; text-align: center;">
  |пряный меню|<br>
- this menu is my<br> 
- first menu it has<br>
+ this menu is my first menu it has<br>
  alot of free space(placeholders)<br>
 </p>
 
