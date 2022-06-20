@@ -1,5 +1,5 @@
 
-<body bgcolor="#581010" style="border:black; border-width:16px;  border-style: solid; border-spacing: 0px;">
+<body bgcolor="#581010">
 <p style="  top: -15px; left: -10px; color: #f16432; width: 592px; height: 0px; position: absolute; text-align: center; font-size: 2em; font-weight: bold; font-family: Arial;">
     Hello im пряный on discord this is
     where you can download my mod
