@@ -41,6 +41,10 @@
  |No Clip|<br>
  |Platforms[Invis]|<br>
  |Platforms[Sticky|<br>
+ |Reverse Time|<br>
+ |LowGrav LGrip|
+ |BigMonk|
+ |Fake Lag[NW]|
  And more will be added<br>
 </p>
 
